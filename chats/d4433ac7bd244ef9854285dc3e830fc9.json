@@ -1,0 +1,37 @@
+{
+  "id": "d4433ac7bd244ef9854285dc3e830fc9",
+  "title": "Hi, I'm Murph",
+  "created_at": "2026-03-18T19:55:55",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi, I'm Murph"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Murph. You're the one who's been sending me messages about East Asian Economy final and labor wedges, right?"
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "I remember now. You're a student, and you're working on your final about the East Asian Economy. What specific aspects of the economy are you struggling with or would like to discuss?"
+    }
+  ],
+  "user_memory": {
+    "review": "East Asian Economy final",
+    "labor wedge": {
+      "definition": "A labor wedge is a device used in construction and other industries to widen an opening or create a gap in a material, such as wood or concrete.",
+      "uses": [
+        "Widening openings for pipes or cables",
+        "Creating gaps for insulation or roofing",
+        "Allowing access to difficult-to-reach areas"
+      ]
+    },
+    "personal traits": [
+      "yes"
+    ]
+  }
+}

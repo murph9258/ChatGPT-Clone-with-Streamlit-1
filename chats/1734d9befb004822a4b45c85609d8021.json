@@ -1,0 +1,34 @@
+{
+  "id": "1734d9befb004822a4b45c85609d8021",
+  "title": "I'm reviewing for my East Asian",
+  "created_at": "2026-03-18T19:53:48",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm reviewing for my East Asian Economy final, be ready to answer my questions"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll do my best to assist you. Go ahead and ask your questions, and I'll be happy to help with your East Asian Economy final. What's your current level of preparation, and what topics are you most familiar with?"
+    },
+    {
+      "role": "user",
+      "content": "explain labor wedge."
+    },
+    {
+      "role": "assistant",
+      "content": "The labor wedge is a concept in economics that was first introduced by Joseph Schumpeter in the early 20th century. It refers to the difference in wages between workers in different regions or countries, often with different levels of education, skills, or experience.\n\nIn other words, the labor wedge represents the gap between the wages of workers in different regions or countries that has been driven by differences in the cost of living, productivity, and the availability of labor.\n\nFor example, if a region has a strong labor market and a high level of productivity, but a lower cost of living, it may attract more people with higher-skilled jobs, leading to higher wages. Conversely, if a region has a lower cost of living but lower productivity, it may have lower wages due to increased competition.\n\nThe labor wedge is an important concept because it helps explain why labor market outcomes, such as wages and unemployment rates, can vary significantly across regions and countries. It also highlights the importance of policies that can address labor market disparities, such as education and training programs, to promote economic growth and job creation.\n\nAre there any specific questions or examples you'd like me to elaborate on regarding the labor wedge?"
+    }
+  ],
+  "user_memory": {
+    "review": "East Asian Economy final",
+    "labor wedge": {
+      "definition": "A labor wedge is a device used in construction and other industries to widen an opening or create a gap in a material, such as wood or concrete.",
+      "uses": [
+        "Widening openings for pipes or cables",
+        "Creating gaps for insulation or roofing",
+        "Allowing access to difficult-to-reach areas"
+      ]
+    }
+  }
+}
